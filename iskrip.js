@@ -10,9 +10,9 @@ const blingSound = document.getElementById('bling-sound');
 
 // Gifts data
 const gifts = [
-    { name: "bouquet of flowers", image: "assets/plawers.gif" },
-    { name: "love letter", image: "assets/labletter.png" },
-    { name: "love letter with flowers", image: "assets/letterwflowers.png" }
+    { name: "bouquet of flowers", image: "plawers.gif" },
+    { name: "love letter", image: "labletter.png" },
+    { name: "love letter with flowers", image: "letterwflowers.png" }
 ];
 
 // Event listener for click on the click-me icon
